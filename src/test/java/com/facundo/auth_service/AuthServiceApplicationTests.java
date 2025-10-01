@@ -1,4 +1,4 @@
-package com.auth_service.auth_service;
+package com.facundo.auth_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

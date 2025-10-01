@@ -1,4 +1,4 @@
-package com.auth_service.auth_service;
+package com.facundo.auth_service;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;
